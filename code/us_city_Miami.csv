@@ -1,0 +1,6 @@
+us_500.csv
+us_500.csv
+us_500.csv
+wc -l us_500.csv
+head -n 1 us_500.csv
+grep -iw $2 us_500.csv
